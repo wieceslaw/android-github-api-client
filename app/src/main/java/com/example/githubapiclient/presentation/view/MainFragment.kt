@@ -74,7 +74,7 @@ class MainFragment : Fragment(R.layout.fragment_main) {
             .addToBackStack(null)
             .replace(
                 R.id.fragment_container_view,
-                DetailsFragment()
+                DetailsFragment.newInstance(viewModel.user.value!!.login)
             )
             .setReorderingAllowed(true)
             .commit()

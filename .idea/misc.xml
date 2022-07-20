@@ -3,10 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/vyach/AndroidStudioProjects/GithubApiClient/app/src/main/res/drawable/circle.xml" value="0.173" />
+        <entry key="..\:/Users/vyach/AndroidStudioProjects/GithubApiClient/app/src/main/res/drawable/fork.xml" value="0.173" />
+        <entry key="..\:/Users/vyach/AndroidStudioProjects/GithubApiClient/app/src/main/res/drawable/rect.xml" value="0.173" />
+        <entry key="..\:/Users/vyach/AndroidStudioProjects/GithubApiClient/app/src/main/res/drawable/star.xml" value="0.173" />
         <entry key="..\:/Users/vyach/AndroidStudioProjects/GithubApiClient/app/src/main/res/layout/activity_main.xml" value="0.13513513513513514" />
         <entry key="..\:/Users/vyach/AndroidStudioProjects/GithubApiClient/app/src/main/res/layout/fragment_blank.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/vyach/AndroidStudioProjects/GithubApiClient/app/src/main/res/layout/fragment_details.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/vyach/AndroidStudioProjects/GithubApiClient/app/src/main/res/layout/fragment_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/vyach/AndroidStudioProjects/GithubApiClient/app/src/main/res/layout/repo_item.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
